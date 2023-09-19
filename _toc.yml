@@ -1,0 +1,44 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: 1. An overview of Data Science tools
+    chapters:
+      - file: part_0/00_The hype of Data Science.ipynb
+        sections:
+          - file: part_0/00_The hype of Data Science.ipynb/The hype around Data Science
+          - file: part_0/00_The hype of Data Science.ipynb/Where is Africa on the map of Data Science?
+      - file: part_0/01_Getting Started with Jupyter and Colab.ipynb
+      - file: part_0/02_Python_for_Data_Science.ipynb
+  - caption: 2. Dealing with tabular data
+    chapters:
+      - file: part_1/01_Refresher on Series and DataFrame.ipynb
+      - file: part_1/02_Data_Reading_Methods.ipynb
+      - file: part_1/03_Tidying_the_Data.ipynb
+      - file: part_1/04_Handling Text Data.ipynb
+      - file: part_1/05_Grouping_Data.ipynb
+      - file: part_1/06_Basic Data Explorations.ipynb
+      - file: part_1/07_Data Organization Methods.ipynb
+      - file: part_1/08_Customizing functions.ipynb
+  - caption: 3. Dealing with Time Series
+    chapters:
+      - file: part_2/01_Working with Time Data.ipynb
+      - file: part_2/02_Basic Data Manipulation  on Time Series_OK.ipynb
+      - file: part_2/03_ Advanced Manipulation on Time Series_OK.ipynb
+      - file: part_2/04_Framing TimeSeries _OK.ipynb
+  - caption: 4. Dealing with Image data
+    chapters:
+      - file: part_3/01_Introduction to Image Data.ipynb
+      - file: part_3/02_Basic_Image Pre-processing_operations.ipynb
+      - file: part_3/03_Advanced Image Pre-processing operations.ipynb
+      - file: part_3/04_Feature Extraction from Images_SVD.ipynb
+      - file: part_3/05_Preparing Images Data for Model Training.ipynb
+  - caption: 5. Dealing with Text data
+    chapters:
+      - file: part_4/01_Strings as Text Data in Python.ipynb
+      - file: part_4/02_Text Mining Operations.ipynb
+      - file: part_4/03_Feature Extraction from Texts.ipynb
+      - file: part_4/04_Word Embeddings.ipynb
+

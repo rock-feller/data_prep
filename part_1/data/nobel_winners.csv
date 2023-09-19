@@ -1,0 +1,951 @@
+awardYear,category,prizeAmount,prizeAmountAdjusted,name,gender,birth_continent
+2001,Economic Sciences,10000000,12295082,A. Michael Spence,male,North America
+1975,Physics,630000,3404179,Aage N. Bohr,male,Europe
+2004,Chemistry,10000000,11762861,Aaron Ciechanover,male,Asia
+1982,Chemistry,1150000,3102518,Aaron Klug,male,Europe
+1979,Physics,800000,2988048,Abdus Salam,male,Asia
+2019,Economic Sciences,9000000,9000000,Abhijit Banerjee,male,Asia
+2019,Peace,9000000,9000000,Abiy Ahmed Ali,male,Africa
+2009,Chemistry,10000000,10958504,Ada E. Yonath,female,Asia
+2011,Physics,10000000,10545557,Adam G. Riess,male,North America
+1939,Chemistry,148822,4227898,Adolf Butenandt,male,Europe
+1905,Chemistry,138089,7615202,Adolf von Baeyer,male,Europe
+1928,Chemistry,156939,4458494,Adolf Windaus,male,Europe
+1980,Peace,880000,2889667,Adolfo Pérez Esquivel,male,South America
+1999,Chemistry,7900000,10049186,Ahmed Zewail,male,Africa
+2010,Chemistry,10000000,10819388,Akira Suzuki,male,Asia
+2019,Chemistry,9000000,9000000,Akira Yoshino,male,Asia
+2007,Peace,10000000,11301989,Al Gore,male,North America
+2000,Chemistry,9000000,11333109,Alan Heeger,male,North America
+1963,Physiology or Medicine,265000,2839286,Alan Hodgkin,male,Europe
+2000,Chemistry,9000000,11333109,Alan MacDiarmid,male,Oceania
+1907,Physics,138796,7033581,Albert A. Michelson,male,Europe
+1957,Literature,208629,2697789,Albert Camus,male,Africa
+1974,Physiology or Medicine,550000,3263449,Albert Claude,male,Europe
+1921,Physics,121573,2532771,Albert Einstein,male,Europe
+2007,Physics,10000000,11301989,Albert Fert,male,Europe
+1902,Peace,141847,8059489,Albert Gobat,male,Europe
+1960,Peace,225987,2664941,Albert Luthuli,male,Africa
+1952,Peace,171135,2546652,Albert Schweitzer,male,Europe
+1937,Physiology or Medicine,158463,4716161,Albert Szent-Györgyi,male,Europe
+1910,Physiology or Medicine,140703,7130220,Albrecht Kossel,male,Europe
+1964,Physics,273000,2828039,Aleksandr M. Prokhorov,male,Oceania
+1970,Literature,400000,3177966,Alexandr Solzhenitsyn,male,Europe
+2003,Physics,10000000,11807305,Alexei Abrikosov,male,Europe
+1912,Physiology or Medicine,140476,6753654,Alexis Carrel,male,Europe
+1982,Peace,1150000,3102518,Alfonso García Robles,male,North America
+1969,Physiology or Medicine,375000,3181561,Alfred D. Hershey,male,North America
+1911,Peace,140695,7327865,Alfred Fried,male,Europe
+1994,Physiology or Medicine,7000000,9249471,Alfred G. Gilman,male,North America
+1966,Physics,300000,2784653,Alfred Kastler,male,Europe
+1913,Chemistry,143010,6875481,Alfred Werner,male,Europe
+2013,Literature,8000000,8365867,Alice Munro,female,North America
+1979,Physiology or Medicine,800000,2988048,Allan M. Cormack,male,Africa
+1911,Physiology or Medicine,140695,7327865,Allvar Gullstrand,male,Europe
+1907,Physiology or Medicine,138796,7033581,Alphonse Laveran,male,Europe
+1982,Peace,1150000,3102518,Alva Myrdal,female,Europe
+2012,Economic Sciences,8000000,8361204,Alvin E. Roth,male,North America
+1998,Economic Sciences,7600000,9713701,Amartya Sen,male,Asia
+1947,Peace,146115,2914528,American Friends Service Committee,,
+1977,Peace,700000,3080986,Amnesty International,,
+1921,Literature,121573,2532771,Anatole France,male,Europe
+1956,Physiology or Medicine,200123,2699501,André F. Cournand,male,Europe
+2010,Physics,10000000,10819388,Andre Geim,male,Europe
+1947,Literature,146115,2914528,André Gide,male,Europe
+1965,Physiology or Medicine,282000,2782895,André Lwoff,male,Europe
+1975,Peace,630000,3404179,Andrei Sakharov,male,Europe
+1963,Physiology or Medicine,265000,2839286,Andrew Huxley,male,Europe
+1977,Physiology or Medicine,700000,3080986,Andrew V. Schally,male,Europe
+2006,Physiology or Medicine,10000000,11552680,Andrew Z. Fire,male,North America
+2015,Economic Sciences,8000000,8384572,Angus Deaton,male,Europe
+2003,Physics,10000000,11807305,Anthony J. Leggett,male,Europe
+1974,Physics,550000,3263449,Antony Hewish,male,Europe
+1978,Peace,725000,2898454,Anwar al-Sadat,male,Africa
+1952,Chemistry,171135,2546652,Archer J.P. Martin,male,Europe
+1922,Physiology or Medicine,122483,3145967,Archibald V. Hill,male,Europe
+2013,Chemistry,8000000,8365867,Arieh Warshel,male,Asia
+1926,Peace,116960,3273134,Aristide Briand,male,Europe
+1948,Chemistry,159773,3056881,Arne Tiselius,male,Europe
+1978,Physics,725000,2898454,Arno Penzias,male,Europe
+2018,Physics,9000000,9000000,Arthur Ashkin,male,North America
+2015,Physics,8000000,8384572,Arthur B. McDonald,male,North America
+1927,Physics,126501,3593778,Arthur H. Compton,male,North America
+1929,Chemistry,172760,4907955,Arthur Harden,male,Europe
+1934,Peace,162608,5167627,Arthur Henderson,male,Europe
+1959,Physiology or Medicine,220678,2704387,Arthur Kornberg,male,North America
+1981,Physics,1000000,2929688,Arthur L. Schawlow,male,North America
+1945,Chemistry,121333,2499993,Artturi Virtanen,male,Europe
+2000,Physiology or Medicine,9000000,11333109,Arvid Carlsson,male,Europe
+1920,Physiology or Medicine,134100,2394643,August Krogh,male,Europe
+1909,Peace,139800,7084459,Auguste Beernaert,male,Europe
+1991,Peace,6000000,8673863,Aung San Suu Kyi ,female,Asia
+2004,Chemistry,10000000,11762861,Avram Hershko,male,Europe
+2015,Chemistry,8000000,8384572,Aziz Sancar,male,Asia
+2009,Peace,10000000,10958504,Barack H. Obama,male,North America
+1983,Physiology or Medicine,1500000,3715324,Barbara McClintock,female,North America
+2017,Physics,9000000,9176183,Barry C. Barish,male,North America
+2005,Physiology or Medicine,10000000,11711430,Barry J. Marshall,male,Oceania
+2001,Chemistry,10000000,12295082,Barry Sharpless,male,North America
+1976,Physiology or Medicine,681000,3342605,Baruch S. Blumberg,male,North America
+1980,Physiology or Medicine,880000,2889667,Baruj Benacerraf,male,South America
+1975,Physics,630000,3404179,Ben R. Mottelson,male,North America
+2016,Economic Sciences,8000000,8301051,Bengt Holmström,male,Europe
+1982,Physiology or Medicine,1150000,3102518,Bengt I. Samuelsson,male,Europe
+2016,Chemistry,8000000,8301051,Bernard L. Feringa,male,Europe
+1947,Physiology or Medicine,146115,2914528,Bernardo Houssay,male,South America
+1991,Physiology or Medicine,6000000,8673863,Bert Sakmann,male,Europe
+1905,Peace,138089,7615202,Bertha von Suttner,female,Europe
+1977,Economic Sciences,700000,3080986,Bertil Ohlin,male,Europe
+1994,Physics,7000000,9249471,Bertram N. Brockhouse,male,North America
+1950,Literature,164304,3050198,Bertrand Russell,male,Europe
+1976,Peace,681000,3342605,Betty Williams,female,Europe
+1903,Literature,141358,7795478,Bjørnstjerne Bjørnson,male,Europe
+2016,Literature,8000000,8301051,Bob Dylan,male,North America
+1958,Literature,214559,2646698,Boris Pasternak,male,Europe
+1973,Physics,510000,3331882,Brian D. Josephson,male,Europe
+2012,Chemistry,8000000,8361204,Brian Kobilka,male,North America
+2011,Physics,10000000,10545557,Brian P. Schmidt,male,North America
+2011,Physiology or Medicine,10000000,10545557,Bruce A. Beutler,male,North America
+1984,Chemistry,1650000,3782090,Bruce Merrifield,male,North America
+1976,Physics,681000,3342605,Burton Richter,male,North America
+1927,Physics,126501,3593778,C.T.R. Wilson,male,Europe
+1906,Physiology or Medicine,138536,7421571,Camillo Golgi,male,Europe
+1989,Literature,3000000,5242311,Camilo José Cela,male,Europe
+1931,Chemistry,173206,5238085,Carl Bosch,male,Europe
+1947,Physiology or Medicine,146115,2914528,Carl Cori,male,Europe
+1936,Physics,159850,4913422,Carl D. Anderson,male,North America
+1919,Literature,133127,2377268,Carl Spitteler,male,Europe
+1935,Peace,159917,4997406,Carl von Ossietzky,male,Europe
+2001,Physics,10000000,12295082,Carl Wieman,male,North America
+1984,Physics,1650000,3782090,Carlo Rubbia,male,Europe
+1996,Peace,7400000,9490424,Carlos Filipe Ximenes Belo,male,Oceania
+1936,Peace,159850,4913422,Carlos Saavedra Lamas,male,South America
+2009,Physiology or Medicine,10000000,10958504,Carol W. Greider,female,North America
+1950,Physics,164304,3050198,Cecil Powell,male,Europe
+1984,Physiology or Medicine,1650000,3782090,César Milstein,male,South America
+1966,Physiology or Medicine,300000,2784653,Charles B. Huggins,male,North America
+1920,Physics,134100,2394643,Charles Edouard Guillaume,male,Europe
+1925,Peace,118165,3211005,Charles G. Dawes,male,North America
+1917,Physics,133823,3920596,Charles Glover Barkla,male,Europe
+1964,Physics,273000,2828039,Charles H. Townes,male,North America
+1987,Chemistry,2175000,4274764,Charles J. Pedersen,male,Asia
+2009,Physics,10000000,10958504,Charles K. Kao,male,Asia
+1928,Physiology or Medicine,156939,4458494,Charles Nicolle,male,Europe
+1913,Physiology or Medicine,143010,6875481,Charles Richet,male,Europe
+1957,Physics,208629,2697789,Chen Ning Yang,male,Asia
+1929,Physiology or Medicine,172760,4907955,Christiaan Eijkman,male,Europe
+1972,Chemistry,480000,3345725,Christian Anfinsen,male,North America
+1974,Physiology or Medicine,550000,3263449,Christian de Duve,male,Europe
+1921,Peace,121573,2532771,Christian Lange,male,Europe
+1995,Physiology or Medicine,7200000,9278351,Christiane Nüsslein-Volhard,female,Europe
+2010,Economic Sciences,10000000,10819388,Christopher A. Pissarides,male,Europe
+2011,Economic Sciences,10000000,10545557,Christopher A. Sims,male,North America
+1997,Physics,7500000,9572839,Claude Cohen-Tannoudji,male,Africa
+1985,Literature,1800000,3843964,Claude Simon,male,Africa
+1994,Physics,7000000,9249471,Clifford G. Shull,male,North America
+1937,Physics,158463,4716161,Clinton Davisson,male,North America
+2003,Economic Sciences,10000000,11807305,Clive W.J. Granger,male,Europe
+1945,Peace,121333,2499993,Cordell Hull,male,North America
+1938,Physiology or Medicine,155077,4543271,Corneille Heymans,male,Europe
+2006,Physiology or Medicine,10000000,11552680,Craig C. Mello,male,North America
+1980,Literature,880000,2889667,Czeslaw Milosz,male,Europe
+1976,Physiology or Medicine,681000,3342605,D. Carleton Gajdusek,male,North America
+1961,Peace,250233,2878447,Dag Hammarskjöld,male,Europe
+2010,Economic Sciences,10000000,10819388,Dale T. Mortensen,male,North America
+2011,Chemistry,10000000,10545557,Dan Shechtman,male,Asia
+1957,Physiology or Medicine,208629,2697789,Daniel Bovet,male,Europe
+1998,Physics,7600000,9713701,Daniel C. Tsui,male,Asia
+2002,Economic Sciences,10000000,12034660,Daniel Kahneman,male,Asia
+2000,Economic Sciences,9000000,11333109,Daniel L. McFadden,male,North America
+1978,Physiology or Medicine,725000,2898454,Daniel Nathans,male,North America
+1997,Literature,7500000,9572839,Dario Fo,male,Europe
+1975,Physiology or Medicine,630000,3404179,David Baltimore,male,North America
+1981,Physiology or Medicine,1000000,2929688,David H. Hubel,male,North America
+2004,Physics,10000000,11762861,David J. Gross,male,North America
+2016,Physics,8000000,8301051,David J. Thouless,male,Europe
+2012,Physics,8000000,8361204,David J. Wineland,male,North America
+1996,Physics,7400000,9490424,David M. Lee,male,North America
+1998,Peace,7600000,9713701,David Trimble,male,Europe
+2018,Peace,9000000,9000000,Denis Mukwege,male,Africa
+1971,Physics,450000,3321850,Dennis Gabor,male,Europe
+1969,Chemistry,375000,3181561,Derek Barton,male,Europe
+1992,Literature,6500000,9184250,Derek Walcott,male,North America
+1984,Peace,1650000,3782090,Desmond Tutu,male,Africa
+1956,Physiology or Medicine,200123,2699501,Dickinson W. Richards,male,North America
+2019,Physics,9000000,9000000,Didier Queloz,male,Europe
+1960,Physics,225987,2664941,Donald A. Glaser,male,North America
+1987,Chemistry,2175000,4274764,Donald J. Cram,male,North America
+2018,Physics,9000000,9000000,Donna Strickland,female,North America
+2007,Literature,10000000,11301989,Doris Lessing,female,Asia
+1964,Chemistry,273000,2828039,Dorothy Crowfoot Hodgkin,female,Africa
+1996,Physics,7400000,9490424,Douglas D. Osheroff,male,North America
+1993,Economic Sciences,6700000,9044276,Douglass C. North,male,North America
+1986,Chemistry,2000000,4098361,Dudley R. Herschbach,male,North America
+1990,Physiology or Medicine,4000000,6329114,E. Donnall Thomas,male,North America
+1952,Physics,171135,2546652,E. M. Purcell,male,North America
+1971,Physiology or Medicine,450000,3321850,"Earl W. Sutherland, Jr.",male,North America
+1932,Physiology or Medicine,171753,5279293,Edgar Adrian,male,Europe
+1992,Physiology or Medicine,6500000,9184250,Edmond H. Fischer,male,Asia
+2006,Economic Sciences,10000000,11552680,Edmund S. Phelps,male,North America
+1907,Chemistry,138796,7033581,Eduard Buchner,male,Europe
+2014,Physiology or Medicine,8000000,8379888,Edvard I. Moser,male,Europe
+1943,Physiology or Medicine,123691,2520876,Edward A. Doisy,male,North America
+1995,Physiology or Medicine,7200000,9278351,Edward B. Lewis,male,North America
+1950,Physiology or Medicine,164304,3050198,Edward C. Kendall,male,North America
+2004,Economic Sciences,10000000,11762861,Edward C. Prescott,male,North America
+1958,Physiology or Medicine,214559,2646698,Edward Tatum,male,North America
+1947,Physics,146115,2914528,Edward V. Appleton,male,Europe
+1992,Physiology or Medicine,6500000,9184250,Edwin G. Krebs,male,North America
+1951,Chemistry,167612,2686090,Edwin M. McMillan,male,North America
+1949,Physiology or Medicine,156290,2930438,Egas Moniz,male,Europe
+2010,Chemistry,10000000,10819388,Ei-ichi Negishi,male,Asia
+1974,Peace,550000,3263449,Eisaku Sato,male,Asia
+2004,Literature,10000000,11762861,Elfriede Jelinek,female,Europe
+1981,Literature,1000000,2929688,Elias Canetti,male,Europe
+1990,Chemistry,4000000,6329114,Elias James Corey,male,North America
+1902,Peace,141847,8059489,Élie Ducommun,male,Europe
+1986,Peace,2000000,4098361,Elie Wiesel,male,Europe
+1912,Peace,140476,6753654,Elihu Root,male,North America
+2009,Economic Sciences,10000000,10958504,Elinor Ostrom,female,North America
+2009,Physiology or Medicine,10000000,10958504,Elizabeth H. Blackburn,female,Oceania
+2011,Peace,10000000,10545557,Ellen Johnson Sirleaf,female,Africa
+1902,Chemistry,141847,8059489,Emil Fischer,male,Europe
+1901,Physiology or Medicine,150782,8567159,Emil von Behring,male,Europe
+1959,Physics,220678,2704387,Emilio Segrè,male,Europe
+1946,Peace,121524,2503929,Emily Greene Balch,female,North America
+1938,Physics,155077,4543271,Enrico Fermi,male,Europe
+2014,Chemistry,8000000,8379888,Eric Betzig,male,North America
+2001,Physics,10000000,12295082,Eric Cornell,male,North America
+1995,Physiology or Medicine,7200000,9278351,Eric F. Wieschaus,male,North America
+2000,Physiology or Medicine,9000000,11333109,Eric Kandel,male,Europe
+2007,Economic Sciences,10000000,11301989,Eric S. Maskin,male,North America
+1931,Literature,173206,5238085,Erik Axel Karlfeldt,male,Europe
+1954,Literature,181647,2640218,Ernest Hemingway,male,North America
+1939,Physics,148822,4227898,Ernest Lawrence,male,North America
+1908,Chemistry,139800,7084459,Ernest Rutherford,male,Oceania
+1951,Physics,167612,2686090,Ernest T.S. Walton,male,Europe
+1907,Peace,138796,7033581,Ernesto Teodoro Moneta,male,Europe
+1945,Physiology or Medicine,121333,2499993,Ernst B. Chain,male,Europe
+1973,Chemistry,510000,3331882,Ernst Otto Fischer,male,Europe
+1986,Physics,2000000,4098361,Ernst Ruska,male,Europe
+1991,Physiology or Medicine,6000000,8673863,Erwin Neher,male,Europe
+1933,Physics,170332,5413093,Erwin Schrödinger,male,Europe
+2019,Economic Sciences,9000000,9000000,Esther Duflo,female,Europe
+2013,Economic Sciences,8000000,8365867,Eugene F. Fama,male,North America
+1936,Literature,159850,4913422,Eugene O'Neill,male,North America
+1963,Physics,265000,2839286,Eugene Wigner,male,Europe
+1975,Literature,630000,3404179,Eugenio Montale,male,Europe
+2012,Peace,8000000,8361204,European Union (EU),,
+1974,Literature,550000,3263449,Eyvind Johnson,male,Europe
+2016,Physics,8000000,8301051,F. Duncan M. Haldane,male,Europe
+1995,Chemistry,7200000,9278351,F. Sherwood Rowland,male,North America
+1993,Peace,6700000,9044276,F.W. de Klerk,male,Africa
+1952,Physics,171135,2546652,Felix Bloch,male,Europe
+1964,Physiology or Medicine,273000,2828039,Feodor Lynen,male,Europe
+1909,Physics,139800,7084459,Ferdinand Braun,male,Europe
+1927,Peace,126501,3593778,Ferdinand Buisson,male,Europe
+1998,Physiology or Medicine,7600000,9713701,Ferid Murad,male,North America
+2004,Economic Sciences,10000000,11762861,Finn E. Kydland,male,Europe
+2018,Chemistry,9000000,9000000,Frances H. Arnold,female,North America
+1962,Physiology or Medicine,257220,2836985,Francis Crick,male,Europe
+1922,Chemistry,122483,3145967,Francis W. Aston,male,Europe
+1985,Economic Sciences,1800000,3843964,Franco Modigliani,male,Europe
+2013,Physics,8000000,8365867,François Englert,male,Europe
+1965,Physiology or Medicine,282000,2782895,François Jacob,male,Europe
+1952,Literature,171135,2546652,François Mauriac,male,Europe
+2008,Physiology or Medicine,10000000,10926573,Françoise Barré-Sinoussi,female,Europe
+1929,Peace,172760,4907955,Frank B. Kellogg,male,North America
+2004,Physics,10000000,11762861,Frank Wilczek,male,North America
+1939,Literature,148822,4227898,Frans Eemil Sillanpää,male,Europe
+1935,Chemistry,159917,4997406,Frédéric Joliot,male,Europe
+1904,Literature,140859,7767960,Frédéric Mistral,male,Europe
+1901,Peace,150782,8567159,Frédéric Passy,male,Europe
+1954,Physiology or Medicine,181647,2640218,Frederick C. Robbins,male,North America
+1923,Physiology or Medicine,114935,3169164,Frederick G. Banting,male,North America
+1995,Physics,7200000,9278351,Frederick Reines,male,North America
+1958,Chemistry,214559,2646698,Frederick Sanger,male,Europe
+1921,Chemistry,121573,2532771,Frederick Soddy,male,Europe
+1908,Peace,139800,7084459,Fredrik Bajer,male,Europe
+1922,Peace,122483,3145967,Fridtjof Nansen,male,Europe
+1931,Chemistry,173206,5238085,Friedrich Bergius,male,Europe
+1974,Economic Sciences,550000,3263449,Friedrich von Hayek,male,Europe
+1947,Peace,146115,2914528,Friends Service Council,,
+1953,Physics,175293,2567769,Frits Zernike,male,Europe
+1918,Chemistry,138198,2847486,Fritz Haber,male,Europe
+1953,Physiology or Medicine,175293,2567769,Fritz Lipmann,male,Europe
+1923,Chemistry,114935,3169164,Fritz Pregl,male,Europe
+1982,Literature,1150000,3102518,Gabriel García Márquez,male,South America
+1908,Physics,139800,7084459,Gabriel Lippmann,male,Europe
+1945,Literature,121333,2499993,Gabriela Mistral,female,South America
+2000,Literature,9000000,11333109,Gao Xingjian,male,Asia
+1992,Economic Sciences,6500000,9184250,Gary Becker,male,North America
+1973,Chemistry,510000,3331882,Geoffrey Wilkinson,male,Europe
+1961,Physiology or Medicine,250233,2878447,Georg von Békésy,male,Europe
+1979,Chemistry,800000,2988048,Georg Wittig,male,Europe
+2001,Economic Sciences,10000000,12295082,George A. Akerlof,male,North America
+1994,Chemistry,7000000,9249471,George A. Olah,male,Europe
+1958,Physiology or Medicine,214559,2646698,George Beadle,male,North America
+1925,Literature,118165,3211005,George Bernard Shaw,male,Europe
+1953,Peace,175293,2567769,George C. Marshall,male,North America
+1980,Physiology or Medicine,880000,2889667,George D. Snell,male,North America
+1943,Chemistry,123691,2520876,George de Hevesy,male,Europe
+1974,Physiology or Medicine,550000,3263449,George E. Palade,male,Europe
+2009,Physics,10000000,10958504,George E. Smith,male,North America
+2006,Physics,10000000,11552680,George F. Smoot,male,North America
+1988,Physiology or Medicine,2500000,4645689,George H. Hitchings,male,North America
+1934,Physiology or Medicine,162608,5167627,George H. Whipple,male,North America
+1982,Economic Sciences,1150000,3102518,George J. Stigler,male,North America
+2018,Chemistry,9000000,9000000,George P. Smith,male,North America
+1937,Physics,158463,4716161,George Paget Thomson,male,Europe
+1967,Chemistry,320000,2843602,George Porter,male,Europe
+1934,Physiology or Medicine,162608,5167627,George R. Minot,male,North America
+1967,Physiology or Medicine,320000,2843602,George Wald,male,North America
+1992,Physics,6500000,9184250,Georges Charpak,male,Europe
+1984,Physiology or Medicine,1650000,3782090,Georges J.F. Köhler,male,Europe
+1958,Peace,214559,2646698,Georges Pire,male,Europe
+1972,Physiology or Medicine,480000,3345725,Gerald M. Edelman,male,North America
+1983,Economic Sciences,1500000,3715324,Gerard Debreu,male,Europe
+2018,Physics,9000000,9000000,Gérard Mourou,male,Europe
+1999,Physics,7900000,10049186,Gerardus 't Hooft,male,Europe
+1986,Physics,2000000,4098361,Gerd Binnig,male,Europe
+1939,Physiology or Medicine,148822,4227898,Gerhard Domagk,male,Europe
+2007,Chemistry,10000000,11301989,Gerhard Ertl,male,Europe
+1971,Chemistry,450000,3321850,Gerhard Herzberg,male,Europe
+1912,Literature,140476,6753654,Gerhart Hauptmann,male,Europe
+1988,Physiology or Medicine,2500000,4645689,Gertrude B. Elion,female,North America
+1947,Physiology or Medicine,146115,2914528,Gerty Cori,female,Europe
+1963,Literature,265000,2839286,Giorgos Seferis,male,Asia
+1906,Literature,138536,7421571,Giosuè Carducci,male,Europe
+1963,Chemistry,265000,2839286,Giulio Natta,male,Europe
+1951,Chemistry,167612,2686090,Glenn T. Seaborg,male,North America
+1979,Physiology or Medicine,800000,2988048,Godfrey N. Hounsfield,male,Europe
+2006,Peace,10000000,11552680,Grameen Bank,,
+1926,Literature,116960,3273134,Grazia Deledda,female,Europe
+2019,Physiology or Medicine,9000000,9000000,Gregg L. Semenza,male,North America
+1909,Physics,139800,7084459,Guglielmo Marconi,male,Europe
+1974,Economic Sciences,550000,3263449,Gunnar Myrdal,male,Europe
+1999,Physiology or Medicine,7900000,10049186,Günter Blobel,male,Europe
+1999,Literature,7900000,10049186,Günter Grass,male,Europe
+1912,Physics,140476,6753654,Gustaf Dalén,male,Europe
+1925,Physics,118165,3211005,Gustav Hertz,male,Europe
+1926,Peace,116960,3273134,Gustav Stresemann,male,Europe
+2004,Physics,10000000,11762861,H. David Politzer,male,North America
+1968,Physiology or Medicine,350000,3052326,H. Gobind Khorana,male,Asia
+2002,Physiology or Medicine,10000000,12034660,H. Robert Horvitz,male,North America
+1955,Literature,190214,2681588,Halldór Laxness,male,Europe
+1978,Physiology or Medicine,725000,2898454,Hamilton O. Smith,male,North America
+1970,Physics,400000,3177966,Hannes Alfvén,male,Europe
+1967,Physics,320000,2843602,Hans Bethe,male,Europe
+1930,Chemistry,172947,5066807,Hans Fischer,male,Europe
+1989,Physics,3000000,5242311,Hans G. Dehmelt,male,Europe
+1953,Physiology or Medicine,175293,2567769,Hans Krebs,male,Europe
+1935,Physiology or Medicine,159917,4997406,Hans Spemann,male,Europe
+1929,Chemistry,172760,4907955,Hans von Euler-Chelpin,male,Europe
+2008,Physiology or Medicine,10000000,10926573,Harald zur Hausen,male,Europe
+1934,Chemistry,162608,5167627,Harold C. Urey,male,North America
+1989,Physiology or Medicine,3000000,5242311,Harold E. Varmus,male,North America
+2005,Literature,10000000,11711430,Harold Pinter,male,Europe
+1990,Economic Sciences,4000000,6329114,Harry M. Markowitz,male,North America
+1974,Literature,550000,3263449,Harry Martinson,male,Europe
+1988,Chemistry,2500000,4645689,Hartmut Michel,male,Europe
+1913,Physics,143010,6875481,Heike Kamerlingh Onnes,male,Europe
+1972,Literature,480000,3345725,Heinrich Böll,male,Europe
+1986,Physics,2000000,4098361,Heinrich Rohrer,male,Europe
+1927,Chemistry,126501,3593778,Heinrich Wieland,male,Europe
+1902,Physics,141847,8059489,Hendrik A. Lorentz,male,Europe
+1903,Physics,141358,7795478,Henri Becquerel,male,Europe
+1927,Literature,126501,3593778,Henri Bergson,male,Europe
+1913,Peace,143010,6875481,Henri La Fontaine,male,Europe
+1906,Chemistry,138536,7421571,Henri Moissan,male,Europe
+1943,Physiology or Medicine,123691,2520876,Henrik Dam,male,Europe
+1917,Literature,133823,3920596,Henrik Pontoppidan,male,Europe
+1901,Peace,150782,8567159,Henry Dunant,male,Europe
+1973,Peace,510000,3331882,Henry Kissinger,male,Europe
+1983,Chemistry,1500000,3715324,Henry Taube,male,North America
+1990,Physics,4000000,6329114,Henry W. Kendall,male,North America
+1905,Literature,138089,7615202,Henryk Sienkiewicz,male,Europe
+1985,Chemistry,1800000,3843964,Herbert A. Hauptman,male,North America
+1979,Chemistry,800000,2988048,Herbert C. Brown,male,Europe
+2000,Physics,9000000,11333109,Herbert Kroemer,male,Europe
+1944,Physiology or Medicine,121841,2510460,Herbert S. Gasser,male,North America
+1978,Economic Sciences,725000,2898454,Herbert Simon,male,North America
+1946,Literature,121524,2503929,Hermann Hesse,male,Europe
+1946,Physiology or Medicine,121524,2503929,Hermann J. Muller,male,North America
+1953,Chemistry,175293,2567769,Hermann Staudinger,male,Europe
+2009,Literature,10000000,10958504,Herta Müller,female,Europe
+2000,Chemistry,9000000,11333109,Hideki Shirakawa,male,Asia
+1949,Physics,156290,2930438,Hideki Yukawa,male,Asia
+2014,Physics,8000000,8379888,Hiroshi Amano,male,Asia
+1921,Peace,121573,2532771,Hjalmar Branting,male,Europe
+1998,Physics,7600000,9713701,Horst L. Störmer,male,Europe
+1975,Physiology or Medicine,630000,3404179,Howard M. Temin,male,North America
+1955,Physiology or Medicine,190214,2681588,Hugo Theorell,male,Europe
+1958,Physics,214559,2646698,Igor Y. Tamm,male,Europe
+1958,Physics,214559,2646698,Il´ja M. Frank,male,Europe
+1908,Physiology or Medicine,139800,7084459,Ilya Mechnikov,male,Europe
+1977,Chemistry,700000,3080986,Ilya Prigogine,male,Europe
+2002,Literature,10000000,12034660,Imre Kertész,male,Europe
+1904,Peace,140859,7767960,Institute of International Law,,
+2007,Peace,10000000,11301989,Intergovernmental Panel on Climate Change,,
+2005,Peace,10000000,11711430,International Atomic Energy Agency,,
+2017,Peace,9000000,9176183,International Campaign to Abolish Nuclear Weapons (ICAN),,
+1997,Peace,7500000,9572839,International Campaign to Ban Landmines,,
+1917,Peace,133823,3920596,International Committee of the Red Cross,,
+1969,Peace,375000,3181561,International Labour Organization,,
+1985,Peace,1800000,3843964,International Physicians for the Prevention of Nuclear War,,
+1935,Chemistry,159917,4997406,Irène Joliot-Curie,female,Europe
+1932,Chemistry,171753,5279293,Irving Langmuir,male,North America
+2004,Chemistry,10000000,11762861,Irwin Rose,male,North America
+1978,Literature,725000,2898454,Isaac Bashevis Singer,male,Europe
+2014,Physics,8000000,8379888,Isamu Akasaki,male,Asia
+1944,Physics,121841,2510460,Isidor Isaac Rabi,male,Europe
+1933,Literature,170332,5413093,Ivan Bunin,male,Europe
+1904,Physiology or Medicine,140859,7767960,Ivan Pavlov,male,Europe
+1973,Physics,510000,3331882,Ivar Giaever,male,Europe
+1961,Literature,250233,2878447,Ivo Andric,male,Europe
+1987,Physics,2175000,4274764,J. Georg Bednorz,male,Europe
+1963,Physics,265000,2839286,J. Hans D. Jensen,male,Europe
+2003,Literature,10000000,11807305,J. M. Coetzee,male,Africa
+1989,Physiology or Medicine,3000000,5242311,J. Michael Bishop,male,North America
+2016,Physics,8000000,8301051,J. Michael Kosterlitz,male,Europe
+2005,Physiology or Medicine,10000000,11711430,J. Robin Warren,male,Oceania
+1906,Physics,138536,7421571,J.J. Thomson,male,Europe
+1922,Literature,122483,3145967,Jacinto Benavente,male,Europe
+2000,Physics,9000000,11333109,Jack Kilby,male,North America
+1988,Physics,2500000,4645689,Jack Steinberger,male,Europe
+2009,Physiology or Medicine,10000000,10958504,Jack W. Szostak,male,Europe
+1901,Chemistry,150782,8567159,Jacobus H. van 't Hoff,male,Europe
+2017,Chemistry,9000000,9176183,Jacques Dubochet,male,Europe
+1965,Physiology or Medicine,282000,2782895,Jacques Monod,male,Europe
+1996,Economic Sciences,7400000,9490424,James A. Mirrlees,male,Europe
+1946,Chemistry,121524,2503929,James B. Sumner,male,North America
+1935,Physics,159917,4997406,James Chadwick,male,Europe
+1980,Physics,880000,2889667,James Cronin,male,North America
+1977,Economic Sciences,700000,3080986,James E. Meade,male,Europe
+2013,Physiology or Medicine,8000000,8365867,James E. Rothman,male,North America
+1925,Physics,118165,3211005,James Franck,male,Europe
+2000,Economic Sciences,9000000,11333109,James J. Heckman,male,North America
+1986,Economic Sciences,2000000,4098361,James M. Buchanan Jr.,male,North America
+2018,Physiology or Medicine,9000000,9000000,James P. Allison,male,North America
+2019,Physics,9000000,9000000,James Peebles,male,North America
+1975,Physics,630000,3404179,James Rainwater,male,North America
+1981,Economic Sciences,1000000,2929688,James Tobin,male,North America
+1962,Physiology or Medicine,257220,2836985,James Watson,male,North America
+1969,Economic Sciences,375000,3181561,Jan Tinbergen,male,Europe
+1931,Peace,173206,5238085,Jane Addams,female,North America
+1959,Chemistry,220678,2704387,Jaroslav Heyrovsky,male,Europe
+1984,Literature,1650000,3782090,Jaroslav Seifert,male,Europe
+1926,Physics,116960,3273134,Jean Baptiste Perrin,male,Europe
+1980,Physiology or Medicine,880000,2889667,Jean Dausset,male,Europe
+2014,Economic Sciences,8000000,8379888,Jean Tirole,male,Europe
+2008,Literature,10000000,10926573,Jean-Marie Gustave Le Clézio,male,Europe
+1987,Chemistry,2175000,4274764,Jean-Marie Lehn,male,Europe
+1964,Literature,273000,2828039,Jean-Paul Sartre,male,Europe
+2016,Chemistry,8000000,8301051,Jean-Pierre Sauvage,male,Europe
+2017,Physiology or Medicine,9000000,9176183,Jeffrey C. Hall,male,North America
+1997,Chemistry,7500000,9572839,Jens C. Skou,male,Europe
+1990,Physics,4000000,6329114,Jerome I. Friedman,male,North America
+1985,Chemistry,1800000,3843964,Jerome Karle,male,North America
+2002,Peace,10000000,12034660,Jimmy Carter,male,North America
+2017,Chemistry,9000000,9176183,Joachim Frank,male,Europe
+1997,Peace,7500000,9572839,Jody Williams,female,North America
+1988,Chemistry,2500000,4645689,Johann Deisenhofer,male,Europe
+1910,Physics,140703,7130220,Johannes Diderik van der Waals,male,Europe
+1926,Physiology or Medicine,116960,3273134,Johannes Fibiger,male,Europe
+1919,Physics,133127,2377268,Johannes Stark,male,Europe
+1944,Literature,121841,2510460,Johannes V. Jensen,male,Europe
+2002,Chemistry,10000000,12034660,John B. Fenn,male,North America
+2019,Chemistry,9000000,9000000,John B. Goodenough,male,Europe
+1956,Physics,200123,2699501,John Bardeen,male,North America
+1994,Economic Sciences,7000000,9249471,John C. Harsanyi,male,Europe
+1962,Chemistry,257220,2836985,John C. Kendrew,male,Europe
+2006,Physics,10000000,11552680,John C. Mather,male,North America
+1986,Chemistry,2000000,4098361,John C. Polanyi,male,Europe
+1951,Physics,167612,2686090,John Cockcroft,male,Europe
+1975,Chemistry,630000,3404179,John Cornforth,male,Oceania
+2002,Physiology or Medicine,10000000,12034660,John E. Sulston,male,Europe
+1997,Chemistry,7500000,9572839,John E. Walker,male,Europe
+1954,Physiology or Medicine,181647,2640218,John F. Enders,male,North America
+1994,Economic Sciences,7000000,9249471,John F. Nash Jr.,male,North America
+1932,Literature,171753,5279293,John Galsworthy,male,Europe
+1946,Chemistry,121524,2503929,John H. Northrop,male,North America
+1977,Physics,700000,3080986,John H. van Vleck,male,North America
+1998,Peace,7600000,9713701,John Hume,male,Europe
+2005,Physics,10000000,11711430,John L. Hall,male,North America
+1923,Physiology or Medicine,114935,3169164,John Macleod,male,Europe
+2014,Physiology or Medicine,8000000,8379888,John O'Keefe,male,North America
+1998,Chemistry,7600000,9713701,John Pople,male,Europe
+1972,Economic Sciences,480000,3345725,John R. Hicks,male,Europe
+1946,Peace,121524,2503929,John R. Mott,male,North America
+1982,Physiology or Medicine,1150000,3102518,John R. Vane,male,Europe
+1962,Literature,257220,2836985,John Steinbeck,male,North America
+1904,Literature,140859,7767960,José Echegaray,male,Europe
+1996,Peace,7400000,9490424,José Ramos-Horta,male,Oceania
+1998,Literature,7600000,9713701,José Saramago,male,Europe
+1987,Literature,2175000,4274764,Joseph Brodsky,male,Europe
+1990,Physiology or Medicine,4000000,6329114,Joseph E. Murray,male,North America
+2001,Economic Sciences,10000000,12295082,Joseph E. Stiglitz,male,North America
+1944,Physiology or Medicine,121841,2510460,Joseph Erlanger,male,North America
+1993,Physics,6700000,9044276,Joseph H. Taylor Jr.,male,North America
+1985,Physiology or Medicine,1800000,3843964,Joseph L. Goldstein,male,North America
+1995,Peace,7200000,9278351,Joseph Rotblat,male,Europe
+1958,Physiology or Medicine,214559,2646698,Joshua Lederberg,male,North America
+2016,Peace,8000000,8301051,Juan Manuel Santos,male,South America
+1956,Literature,200123,2699501,Juan Ramón Jiménez,male,Europe
+2011,Physiology or Medicine,10000000,10545557,Jules A. Hoffmann,male,Europe
+1919,Physiology or Medicine,133127,2377268,Jules Bordet,male,Europe
+1965,Physics,282000,2782895,Julian Schwinger,male,North America
+1970,Physiology or Medicine,400000,3177966,Julius Axelrod,male,North America
+1927,Physiology or Medicine,126501,3593778,Julius Wagner-Jauregg,male,Europe
+1987,Physics,2175000,4274764,K. Alex Müller,male,Europe
+1981,Physics,1000000,2929688,Kai M. Siegbahn,male,Europe
+2014,Peace,8000000,8379888,Kailash Satyarthi,male,Asia
+1917,Literature,133823,3920596,Karl Gjellerup,male,Europe
+1930,Physiology or Medicine,172947,5066807,Karl Landsteiner,male,Europe
+1973,Physiology or Medicine,510000,3331882,Karl von Frisch,male,Europe
+1963,Chemistry,265000,2839286,Karl Ziegler,male,Europe
+1993,Chemistry,6700000,9044276,Kary B. Mullis,male,North America
+2017,Literature,9000000,9176183,Kazuo Ishiguro,male,Asia
+1967,Physiology or Medicine,320000,2843602,Keffer Hartline,male,North America
+1981,Chemistry,1000000,2929688,Kenichi Fukui,male,Asia
+1982,Physics,1150000,3102518,Kenneth G. Wilson,male,North America
+1972,Economic Sciences,480000,3345725,Kenneth J. Arrow,male,North America
+1994,Literature,7000000,9249471,Kenzaburo Oe,male,Asia
+2000,Peace,9000000,11333109,Kim Dae-jung,male,Asia
+2017,Physics,9000000,9176183,Kip S. Thorne,male,North America
+1908,Peace,139800,7084459,Klas Pontus Arnoldson,male,Europe
+1985,Physics,1800000,3843964,Klaus von Klitzing,male,Europe
+1920,Literature,134100,2394643,Knut Hamsun,male,Europe
+2001,Peace,10000000,12295082,Kofi Annan,male,Africa
+2002,Chemistry,10000000,12034660,Koichi Tanaka,male,Asia
+1964,Physiology or Medicine,273000,2828039,Konrad Bloch,male,Europe
+1973,Physiology or Medicine,510000,3331882,Konrad Lorenz,male,Europe
+2010,Physics,10000000,10819388,Konstantin Novoselov,male,Europe
+1950,Chemistry,164304,3050198,Kurt Alder,male,Europe
+2002,Chemistry,10000000,12034660,Kurt Wüthrich,male,Europe
+1968,Chemistry,350000,3052326,Lars Onsager,male,Europe
+2013,Economic Sciences,8000000,8365867,Lars Peter Hansen,male,North America
+1915,Physics,149223,6217625,Lawrence Bragg,male,Oceania
+1980,Economic Sciences,880000,2889667,Lawrence R. Klein,male,North America
+1973,Peace,510000,3331882,Le Duc Tho ,male,Asia
+1963,Peace,265000,2839286,League of Red Cross Societies,,
+1983,Peace,1500000,3715324,Lech Walesa,male,Europe
+2001,Physiology or Medicine,10000000,12295082,Leland Hartwell,male,North America
+1973,Physics,510000,3331882,Leo Esaki,male,Asia
+1920,Peace,134100,2394643,Léon Bourgeois,male,Europe
+1951,Peace,167612,2686090,Léon Jouhaux,male,Europe
+1988,Physics,2500000,4645689,Leon M. Lederman,male,North America
+1972,Physics,480000,3345725,Leon N. Cooper,male,North America
+2007,Economic Sciences,10000000,11301989,Leonid Hurwicz,male,Europe
+1975,Economic Sciences,630000,3404179,Leonid Vitaliyevich Kantorovich,male,Europe
+1939,Chemistry,148822,4227898,Leopold Ruzicka,male,Europe
+1957,Peace,208629,2697789,Lester Bowles Pearson,male,North America
+1962,Physics,257220,2836985,Lev Landau,male,Asia
+2011,Peace,10000000,10545557,Leymah Gbowee,female,Africa
+2004,Physiology or Medicine,10000000,11762861,Linda B. Buck,female,North America
+1962,Peace,257220,2836985,Linus Pauling,male,North America
+2010,Peace,10000000,10819388,Liu Xiaobo,male,Asia
+2012,Economic Sciences,8000000,8361204,Lloyd S. Shapley,male,North America
+1949,Peace,156290,2930438,Lord Boyd Orr,male,Europe
+1904,Physics,140859,7767960,Lord Rayleigh,male,Europe
+1957,Chemistry,208629,2697789,Lord Todd,male,Europe
+1929,Physics,172760,4907955,Louis de Broglie,male,Europe
+1998,Physiology or Medicine,7600000,9713701,Louis J. Ignarro,male,North America
+1970,Physics,400000,3177966,Louis Néel,male,Europe
+1907,Peace,138796,7033581,Louis Renault,male,Europe
+2008,Physiology or Medicine,10000000,10926573,Luc Montagnier,male,Europe
+1927,Peace,126501,3593778,Ludwig Quidde,male,Europe
+1934,Literature,162608,5167627,Luigi Pirandello,male,Europe
+1968,Physics,350000,3052326,Luis Alvarez,male,North America
+1970,Chemistry,400000,3177966,Luis Leloir,male,Europe
+2019,Chemistry,9000000,9000000,M. Stanley Whittingham,male,Europe
+1976,Peace,681000,3342605,Mairead Corrigan,female,Europe
+2008,Physics,10000000,10926573,Makoto Kobayashi,male,Asia
+2014,Peace,8000000,8379888,Malala Yousafzai,female,Asia
+1967,Chemistry,320000,2843602,Manfred Eigen,male,Europe
+1924,Physics,116719,3218355,Manne Siegbahn,male,Europe
+1963,Physics,265000,2839286,Maria Goeppert Mayer,female,Europe
+1903,Physics,141358,7795478,Marie Curie,female,Europe
+1995,Chemistry,7200000,9278351,Mario J. Molina,male,North America
+2007,Physiology or Medicine,10000000,11301989,Mario R. Capecchi,male,Europe
+2010,Literature,10000000,10819388,Mario Vargas Llosa,male,South America
+1968,Physiology or Medicine,350000,3052326,Marshall W. Nirenberg,male,North America
+2008,Chemistry,10000000,10926573,Martin Chalfie,male,North America
+2013,Chemistry,8000000,8365867,Martin Karplus,male,Europe
+1995,Physics,7200000,9278351,Martin L. Perl,male,North America
+1964,Peace,273000,2828039,Martin Luther King Jr.,male,North America
+1994,Physiology or Medicine,7000000,9249471,Martin Rodbell,male,North America
+1974,Physics,550000,3263449,Martin Ryle,male,Europe
+1999,Physics,7900000,10049186,Martinus J.G. Veltman,male,Europe
+2008,Peace,10000000,10926573,Martti Ahtisaari,male,Europe
+2002,Physics,10000000,12034660,Masatoshi Koshiba,male,Asia
+1988,Economic Sciences,2500000,4645689,Maurice Allais,male,Europe
+1911,Literature,140695,7327865,Maurice Maeterlinck,male,Europe
+1962,Physiology or Medicine,257220,2836985,Maurice Wilkins,male,Oceania
+1954,Physics,181647,2640218,Max Born,male,Europe
+1969,Physiology or Medicine,375000,3181561,Max Delbrück,male,Europe
+1962,Chemistry,257220,2836985,Max F. Perutz,male,Europe
+1918,Physics,138198,2847486,Max Planck,male,Europe
+1951,Physiology or Medicine,167612,2686090,Max Theiler,male,Africa
+1914,Physics,146900,7062500,Max von Laue,male,Europe
+2014,Physiology or Medicine,8000000,8379888,May-Britt Moser,female,Europe
+1999,Peace,7900000,10049186,Médecins Sans Frontières,,
+1961,Chemistry,250233,2878447,Melvin Calvin,male,North America
+1988,Physics,2500000,4645689,Melvin Schwartz,male,North America
+1978,Peace,725000,2898454,Menachem Begin,male,Europe
+1990,Economic Sciences,4000000,6329114,Merton H. Miller,male,North America
+2019,Economic Sciences,9000000,9000000,Michael Kremer,male,North America
+2013,Chemistry,8000000,8365867,Michael Levitt,male,Africa
+2017,Physiology or Medicine,9000000,9176183,Michael Rosbash,male,North America
+1985,Physiology or Medicine,1800000,3843964,Michael S. Brown,male,North America
+1993,Chemistry,6700000,9044276,Michael Smith,male,Europe
+2017,Physiology or Medicine,9000000,9176183,Michael W. Young,male,North America
+2019,Physics,9000000,9000000,Michel Mayor,male,Europe
+1967,Literature,320000,2843602,Miguel Angel Asturias,male,North America
+1990,Peace,4000000,6329114,Mikhail Gorbachev,male,Europe
+1965,Literature,282000,2782895,Mikhail Sholokhov,male,Europe
+1976,Economic Sciences,681000,3342605,Milton Friedman,male,North America
+2012,Literature,8000000,8361204,Mo Yan,male,Asia
+2005,Peace,10000000,11711430,Mohamed ElBaradei,male,Africa
+1979,Peace,800000,2988048,Mother Teresa ,female,Europe
+2006,Peace,10000000,11552680,Muhammad Yunus,male,Asia
+1969,Physics,375000,3181561,Murray Gell-Mann,male,North America
+1997,Economic Sciences,7500000,9572839,Myron Scholes,male,North America
+2018,Peace,9000000,9000000,Nadia Murad,female,Asia
+1991,Literature,6000000,8673863,Nadine Gordimer,female,Africa
+1988,Literature,2500000,4645689,Naguib Mahfouz,male,Africa
+1938,Peace,155077,4543271,Nansen International Office for Refugees,,
+1930,Peace,172947,5066807,Nathan Söderblom,male,Europe
+2015,Peace,8000000,8384572,National Dialogue Quartet ,,
+1966,Literature,300000,2784653,Nelly Sachs,female,Europe
+1993,Peace,6700000,9044276,Nelson Mandela,male,Africa
+1931,Peace,173206,5238085,Nicholas Murray Butler,male,North America
+1981,Physics,1000000,2929688,Nicolaas Bloembergen,male,Europe
+1964,Physics,273000,2828039,Nicolay G. Basov,male,Europe
+1922,Physics,122483,3145967,Niels Bohr,male,Europe
+1984,Physiology or Medicine,1650000,3782090,Niels K. Jerne,male,Europe
+1903,Physiology or Medicine,141358,7795478,Niels Ryberg Finsen,male,Europe
+1973,Physiology or Medicine,510000,3331882,Nikolaas Tinbergen,male,Europe
+1956,Chemistry,200123,2699501,Nikolay Semenov,male,Europe
+1970,Peace,400000,3177966,Norman Borlaug,male,North America
+1989,Physics,3000000,5242311,Norman F. Ramsey,male,North America
+1937,Chemistry,158463,4716161,Norman Haworth,male,Europe
+1990,Literature,4000000,6329114,Octavio Paz,male,North America
+1969,Chemistry,375000,3181561,Odd Hassel,male,Europe
+1979,Literature,800000,2988048,Odysseus Elytis,male,Europe
+1954,Peace,181647,2640218,Office of the United Nations High Commissioner for Refugees,,
+2018,Literature,9000000,9000000,Olga Tokarczuk,female,Europe
+2009,Economic Sciences,10000000,10958504,Oliver E. Williamson,male,North America
+2016,Economic Sciences,8000000,8301051,Oliver Hart,male,Europe
+2007,Physiology or Medicine,10000000,11301989,Oliver Smithies,male,Europe
+2013,Peace,8000000,8365867,Organisation for the Prohibition of Chemical Weapons,,
+2006,Literature,10000000,11552680,Orhan Pamuk,male,Asia
+2008,Chemistry,10000000,10926573,Osamu Shimomura,male,Asia
+1987,Peace,2175000,4274764,Oscar Arias Sánchez,male,North America
+1950,Chemistry,164304,3050198,Otto Diels,male,Europe
+1944,Chemistry,121841,2510460,Otto Hahn,male,Europe
+1936,Physiology or Medicine,159850,4913422,Otto Loewi,male,Europe
+1922,Physiology or Medicine,122483,3145967,Otto Meyerhof,male,Europe
+1943,Physics,123691,2520876,Otto Stern,male,Europe
+1910,Chemistry,140703,7130220,Otto Wallach,male,Europe
+1931,Physiology or Medicine,173206,5238085,Otto Warburg,male,Europe
+1959,Physics,220678,2704387,Owen Chamberlain,male,North America
+1928,Physics,156939,4458494,Owen Willans Richardson,male,Europe
+1971,Literature,450000,3321850,Pablo Neruda,male,South America
+1951,Literature,167612,2686090,Pär Lagerkvist,male,Europe
+1948,Physics,159773,3056881,Patrick M.S. Blackett,male,Europe
+2014,Literature,8000000,8379888,Patrick Modiano,male,Europe
+1973,Literature,510000,3331882,Patrick White,male,Europe
+1970,Economic Sciences,400000,3177966,Paul A. Samuelson,male,North America
+1933,Physics,170332,5413093,Paul A.M. Dirac,male,Europe
+1980,Chemistry,880000,2889667,Paul Berg,male,North America
+2003,Physiology or Medicine,10000000,11807305,Paul C. Lauterbur,male,North America
+1997,Chemistry,7500000,9572839,Paul D. Boyer,male,North America
+1908,Physiology or Medicine,139800,7084459,Paul Ehrlich,male,Europe
+2000,Physiology or Medicine,9000000,11333109,Paul Greengard,male,North America
+1909,Peace,139800,7084459,Paul Henri d'Estournelles de Constant,male,Europe
+1910,Literature,140703,7130220,Paul Heyse,male,Europe
+1995,Chemistry,7200000,9278351,Paul J. Crutzen,male,Europe
+1974,Chemistry,550000,3263449,Paul J. Flory,male,North America
+1937,Chemistry,158463,4716161,Paul Karrer,male,Europe
+2008,Economic Sciences,10000000,10926573,Paul Krugman,male,North America
+2018,Economic Sciences,9000000,9000000,Paul M. Romer,male,North America
+2015,Chemistry,8000000,8384572,Paul Modrich,male,North America
+1948,Physiology or Medicine,159773,3056881,Paul Müller,male,Europe
+1912,Chemistry,140476,6753654,Paul Sabatier,male,Europe
+1958,Physics,214559,2646698,Pavel A. Cherenkov,male,Europe
+1938,Literature,155077,4543271,Pearl Buck,female,North America
+1946,Physics,121524,2503929,Percy W. Bridgman,male,North America
+1910,Peace,140703,7130220,Permanent International Peace Bureau,,
+2010,Economic Sciences,10000000,10819388,Peter A. Diamond,male,North America
+2003,Chemistry,10000000,11807305,Peter Agre,male,North America
+1996,Physiology or Medicine,7400000,9490424,Peter C. Doherty,male,Oceania
+1936,Chemistry,159850,4913422,Peter Debye,male,Europe
+2007,Physics,10000000,11301989,Peter Grünberg,male,Europe
+2019,Literature,9000000,9000000,Peter Handke,male,Europe
+2013,Physics,8000000,8365867,Peter Higgs,male,Europe
+1960,Physiology or Medicine,225987,2664941,Peter Medawar,male,South America
+1978,Chemistry,725000,2898454,Peter Mitchell,male,Europe
+1966,Physiology or Medicine,300000,2784653,Peyton Rous,male,North America
+1959,Peace,220678,2704387,Philip Noel-Baker,male,Europe
+1950,Physiology or Medicine,164304,3050198,Philip S. Hench,male,North America
+1977,Physics,700000,3080986,Philip W. Anderson,male,North America
+1905,Physics,138089,7615202,Philipp Lenard,male,Europe
+1993,Physiology or Medicine,6700000,9044276,Phillip A. Sharp,male,North America
+1903,Physics,141358,7795478,Pierre Curie,male,Europe
+1991,Physics,6000000,8673863,Pierre-Gilles de Gennes,male,Europe
+1902,Physics,141847,8059489,Pieter Zeeman,male,Europe
+1955,Physics,190214,2681588,Polykarp Kusch,male,Europe
+1995,Peace,7200000,9278351,Pugwash Conferences on Science and World Affairs,,
+1978,Physics,725000,2898454,Pyotr Kapitsa,male,Europe
+1913,Literature,143010,6875481,Rabindranath Tagore,male,Asia
+1969,Economic Sciences,375000,3181561,Ragnar Frisch,male,Europe
+1967,Physiology or Medicine,320000,2843602,Ragnar Granit,male,Europe
+2017,Physics,9000000,9176183,Rainer Weiss,male,Europe
+1950,Peace,164304,3050198,Ralph Bunche,male,North America
+2011,Physiology or Medicine,10000000,10545557,Ralph M. Steinman,male,North America
+1903,Peace,141358,7795478,Randal Cremer,male,Europe
+2013,Physiology or Medicine,8000000,8365867,Randy W. Schekman,male,North America
+2002,Physics,10000000,12034660,Raymond Davis Jr.,male,North America
+1994,Economic Sciences,7000000,9249471,Reinhard Selten,male,Europe
+1975,Physiology or Medicine,630000,3404179,Renato Dulbecco,male,Europe
+1968,Peace,350000,3052326,René Cassin,male,Europe
+2002,Physics,10000000,12034660,Riccardo Giacconi,male,Europe
+2004,Physiology or Medicine,10000000,11762861,Richard Axel,male,North America
+1996,Chemistry,7400000,9490424,Richard E. Smalley,male,North America
+1990,Physics,4000000,6329114,Richard E. Taylor,male,North America
+2010,Chemistry,10000000,10819388,Richard F. Heck,male,North America
+2017,Economic Sciences,9000000,9176183,Richard H. Thaler,male,North America
+2017,Chemistry,9000000,9176183,Richard Henderson,male,Europe
+1993,Physiology or Medicine,6700000,9044276,Richard J. Roberts,male,Europe
+1938,Chemistry,155077,4543271,Richard Kuhn,male,Europe
+1952,Chemistry,171135,2546652,Richard L.M. Synge,male,Europe
+1965,Physics,282000,2782895,Richard P. Feynman,male,North America
+1991,Chemistry,6000000,8673863,Richard R. Ernst,male,Europe
+2005,Chemistry,10000000,11711430,Richard R. Schrock,male,North America
+1984,Economic Sciences,1650000,3782090,Richard Stone,male,Europe
+1915,Chemistry,149223,6217625,Richard Willstätter,male,Europe
+1925,Chemistry,118165,3211005,Richard Zsigmondy,male,Europe
+1992,Peace,6500000,9184250,Rigoberta Menchú Tum,female,North America
+1986,Physiology or Medicine,2000000,4098361,Rita Levi-Montalcini,female,Europe
+1981,Chemistry,1000000,2929688,Roald Hoffmann,male,Europe
+1923,Physics,114935,3169164,Robert A. Millikan,male,North America
+1998,Physics,7600000,9713701,Robert B. Laughlin,male,North America
+1965,Chemistry,282000,2782895,Robert B. Woodward,male,North America
+1914,Physiology or Medicine,146900,7062500,Robert Bárány,male,Europe
+1997,Economic Sciences,7500000,9572839,Robert C. Merton,male,North America
+1996,Physics,7400000,9490424,Robert C. Richardson,male,North America
+1937,Peace,158463,4716161,"Robert Cecil, Viscount Cecil of Chelwood",male,Europe
+1995,Economic Sciences,7200000,9278351,Robert E. Lucas Jr.,male,North America
+1996,Chemistry,7400000,9490424,Robert F. Curl Jr.,male,North America
+2003,Economic Sciences,10000000,11807305,Robert F. Engle III,male,North America
+1998,Physiology or Medicine,7600000,9713701,Robert F. Furchgott,male,North America
+2010,Physiology or Medicine,10000000,10819388,Robert G. Edwards,male,Europe
+2005,Chemistry,10000000,11711430,Robert H. Grubbs,male,North America
+1961,Physics,250233,2878447,Robert Hofstadter,male,North America
+1988,Chemistry,2500000,4645689,Robert Huber,male,Europe
+2005,Economic Sciences,10000000,11711430,Robert J. Aumann,male,Europe
+2012,Chemistry,8000000,8361204,Robert J. Lefkowitz,male,North America
+2013,Economic Sciences,8000000,8365867,Robert J. Shiller,male,North America
+1905,Physiology or Medicine,138089,7615202,Robert Koch,male,Europe
+1987,Economic Sciences,2175000,4274764,Robert M. Solow,male,North America
+1999,Economic Sciences,7900000,10049186,Robert Mundell,male,North America
+1966,Chemistry,300000,2784653,Robert S. Mulliken,male,North America
+1972,Physics,480000,3345725,Robert Schrieffer,male,North America
+1993,Economic Sciences,6700000,9044276,Robert W. Fogel,male,North America
+1968,Physiology or Medicine,350000,3052326,Robert W. Holley,male,North America
+1978,Physics,725000,2898454,Robert Woodrow Wilson,male,North America
+2003,Chemistry,10000000,11807305,Roderick MacKinnon,male,North America
+1972,Physiology or Medicine,480000,3345725,Rodney R. Porter,male,Europe
+2007,Economic Sciences,10000000,11301989,Roger B. Myerson,male,North America
+2006,Chemistry,10000000,11552680,Roger D. Kornberg,male,North America
+1977,Physiology or Medicine,700000,3080986,Roger Guillemin,male,Europe
+1937,Literature,158463,4716161,Roger Martin du Gard,male,Europe
+1981,Physiology or Medicine,1000000,2929688,Roger W. Sperry,male,North America
+2008,Chemistry,10000000,10926573,Roger Y. Tsien,male,North America
+1996,Physiology or Medicine,7400000,9490424,Rolf M. Zinkernagel,male,Europe
+1915,Literature,149223,6217625,Romain Rolland,male,Europe
+1967,Chemistry,320000,2843602,Ronald G.W. Norrish,male,Europe
+1991,Economic Sciences,6000000,8673863,Ronald H. Coase,male,Europe
+1902,Physiology or Medicine,141847,8059489,Ronald Ross,male,Asia
+1977,Physiology or Medicine,700000,3080986,Rosalyn Yalow,female,North America
+2005,Physics,10000000,11711430,Roy J. Glauber,male,North America
+1908,Literature,139800,7084459,Rudolf Eucken,male,Europe
+1961,Physics,250233,2878447,Rudolf Mössbauer,male,Europe
+1992,Chemistry,6500000,9184250,Rudolph A. Marcus,male,North America
+1907,Literature,138796,7033581,Rudyard Kipling,male,Asia
+1993,Physics,6700000,9044276,Russell A. Hulse,male,North America
+2001,Chemistry,10000000,12295082,Ryoji Noyori,male,Asia
+1960,Literature,225987,2664941,Saint-John Perse,male,North America
+1969,Physiology or Medicine,375000,3181561,Salvador E. Luria,male,Europe
+1959,Literature,220678,2704387,Salvatore Quasimodo,male,Europe
+1969,Literature,375000,3181561,Samuel Beckett,male,Europe
+1976,Physics,681000,3342605,Samuel C.C. Ting,male,North America
+1906,Physiology or Medicine,138536,7421571,Santiago Ramón y Cajal,male,Europe
+2015,Physiology or Medicine,8000000,8384572,Satoshi &#332;mura,male,Asia
+1976,Literature,681000,3342605,Saul Bellow,male,North America
+2011,Physics,10000000,10545557,Saul Perlmutter,male,North America
+1995,Literature,7200000,9278351,Seamus Heaney,male,Europe
+1974,Peace,550000,3263449,Seán MacBride,male,Europe
+1909,Literature,139800,7084459,Selma Lagerlöf,female,Europe
+1952,Physiology or Medicine,171135,2546652,Selman A. Waksman,male,Europe
+2012,Physics,8000000,8361204,Serge Haroche,male,Africa
+1959,Physiology or Medicine,220678,2704387,Severo Ochoa,male,Europe
+1979,Physics,800000,2988048,Sheldon Glashow,male,North America
+1994,Peace,7000000,9249471,Shimon Peres,male,Europe
+2012,Physiology or Medicine,8000000,8361204,Shinya Yamanaka,male,Asia
+2003,Peace,10000000,11807305,Shirin Ebadi,female,Asia
+1966,Literature,300000,2784653,Shmuel Agnon,male,Europe
+2014,Physics,8000000,8379888,Shuji Nakamura,male,Asia
+1989,Chemistry,3000000,5242311,Sidney Altman,male,North America
+1928,Literature,156939,4458494,Sigrid Undset,female,Europe
+1971,Economic Sciences,450000,3321850,Simon Kuznets,male,Europe
+1984,Physics,1650000,3782090,Simon van der Meer,male,Europe
+1965,Physics,282000,2782895,Sin-Itiro Tomonaga,male,Asia
+1930,Literature,172947,5066807,Sinclair Lewis,male,North America
+1945,Physiology or Medicine,121333,2499993,Sir Alexander Fleming,male,Europe
+1979,Economic Sciences,800000,2988048,Sir Arthur Lewis,male,North America
+1925,Peace,118165,3211005,Sir Austen Chamberlain,male,Europe
+1970,Physiology or Medicine,400000,3177966,Sir Bernard Katz,male,Europe
+1930,Physics,172947,5066807,Sir Chandrasekhara Venkata Raman,male,Asia
+1932,Physiology or Medicine,171753,5279293,Sir Charles Sherrington,male,Europe
+1956,Chemistry,200123,2699501,Sir Cyril Hinshelwood,male,Europe
+1960,Physiology or Medicine,225987,2664941,Sir Frank Macfarlane Burnet,male,Oceania
+1929,Physiology or Medicine,172760,4907955,Sir Frederick Hopkins,male,Europe
+2018,Chemistry,9000000,9000000,Sir Gregory P. Winter,male,Europe
+1996,Chemistry,7400000,9490424,Sir Harold Kroto,male,Europe
+1936,Physiology or Medicine,159850,4913422,Sir Henry Dale,male,Europe
+1945,Physiology or Medicine,121333,2499993,Sir Howard Florey,male,Oceania
+2016,Chemistry,8000000,8301051,Sir J. Fraser Stoddart,male,Europe
+1988,Physiology or Medicine,2500000,4645689,Sir James W. Black,male,Europe
+2012,Physiology or Medicine,8000000,8361204,Sir John B. Gurdon,male,Europe
+1963,Physiology or Medicine,265000,2839286,Sir John Eccles,male,Oceania
+2007,Physiology or Medicine,10000000,11301989,Sir Martin J. Evans,male,Europe
+1977,Physics,700000,3080986,Sir Nevill F. Mott,male,Europe
+1933,Peace,170332,5413093,Sir Norman Angell,male,Europe
+2001,Physiology or Medicine,10000000,12295082,Sir Paul Nurse,male,Europe
+2019,Physiology or Medicine,9000000,9000000,Sir Peter J. Ratcliffe,male,Europe
+2003,Physiology or Medicine,10000000,11807305,Sir Peter Mansfield,male,Europe
+1947,Chemistry,146115,2914528,Sir Robert Robinson,male,Europe
+1904,Chemistry,140859,7767960,Sir William Ramsay,male,Europe
+1972,Chemistry,480000,3345725,Stanford Moore,male,North America
+1997,Physiology or Medicine,7500000,9572839,Stanley B. Prusiner,male,North America
+1986,Physiology or Medicine,2000000,4098361,Stanley Cohen,male,North America
+2014,Chemistry,8000000,8379888,Stefan W. Hell,male,Europe
+1997,Physics,7500000,9572839,Steven Chu,male,North America
+1979,Physics,800000,2988048,Steven Weinberg,male,North America
+1983,Physics,1500000,3715324,Subramanyan Chandrasekhar,male,Asia
+1901,Literature,150782,8567159,Sully Prudhomme,male,Europe
+1982,Physiology or Medicine,1150000,3102518,Sune K. Bergström,male,Europe
+1987,Physiology or Medicine,2175000,4274764,Susumu Tonegawa,male,Asia
+1903,Chemistry,141358,7795478,Svante Arrhenius,male,Europe
+2015,Literature,8000000,8384572,Svetlana Alexievich,female,Europe
+2002,Physiology or Medicine,10000000,12034660,Sydney Brenner,male,Africa
+1948,Literature,159773,3056881,T.S. Eliot,male,North America
+1950,Physiology or Medicine,164304,3050198,Tadeus Reichstein,male,Europe
+2015,Physics,8000000,8384572,Takaaki Kajita,male,Asia
+2018,Physiology or Medicine,9000000,9000000,Tasuku Honjo,male,Asia
+2011,Peace,10000000,10545557,Tawakkol Karman,female,Asia
+1989,Peace,3000000,5242311,The 14th Dalai Lama ,male,Asia
+1926,Chemistry,116960,3273134,The Svedberg,male,Europe
+1909,Physiology or Medicine,139800,7084459,Theodor Kocher,male,Europe
+1902,Literature,141847,8059489,Theodor Mommsen,male,Europe
+2005,Physics,10000000,11711430,Theodor W. Hänsch,male,Europe
+1906,Peace,138536,7421571,Theodore Roosevelt,male,North America
+1914,Chemistry,146900,7062500,Theodore W. Richards,male,North America
+1979,Economic Sciences,800000,2988048,Theodore W. Schultz,male,North America
+2009,Chemistry,10000000,10958504,Thomas A. Steitz,male,North America
+2005,Economic Sciences,10000000,11711430,Thomas C. Schelling,male,North America
+2013,Physiology or Medicine,8000000,8365867,Thomas C. Südhof,male,Europe
+1933,Physiology or Medicine,170332,5413093,Thomas H. Morgan,male,North America
+1954,Physiology or Medicine,181647,2640218,Thomas H. Weller,male,North America
+2011,Economic Sciences,10000000,10545557,Thomas J. Sargent,male,North America
+1929,Literature,172760,4907955,Thomas Mann,male,Europe
+1989,Chemistry,3000000,5242311,Thomas R. Cech,male,North America
+2001,Physiology or Medicine,10000000,12295082,Tim Hunt,male,Europe
+1975,Economic Sciences,630000,3404179,Tjalling C. Koopmans,male,Europe
+1911,Peace,140695,7327865,Tobias Asser,male,Europe
+2015,Chemistry,8000000,8384572,Tomas Lindahl,male,Europe
+2011,Literature,10000000,10545557,Tomas Tranströmer,male,Europe
+1993,Literature,6700000,9044276,Toni Morrison,female,North America
+1981,Physiology or Medicine,1000000,2929688,Torsten N. Wiesel,male,Europe
+2008,Physics,10000000,10926573,Toshihide Maskawa,male,Asia
+1989,Economic Sciences,3000000,5242311,Trygve Haavelmo,male,Europe
+1957,Physics,208629,2697789,Tsung-Dao Lee,male,Asia
+2015,Physiology or Medicine,8000000,8384572,Tu Youyou,female,Asia
+1970,Physiology or Medicine,400000,3177966,Ulf von Euler,male,Europe
+2001,Peace,10000000,12295082,United Nations,,
+1965,Peace,282000,2782895,United Nations Children's Fund,,
+1988,Peace,2500000,4645689,United Nations Peacekeeping Forces,,
+2001,Literature,10000000,12295082,V. S. Naipaul,male,North America
+1980,Physics,880000,2889667,Val Fitch,male,North America
+2009,Chemistry,10000000,10958504,Venkatraman Ramakrishnan,male,Asia
+1916,Literature,131793,4845331,Verner von Heidenstam,male,Europe
+2002,Economic Sciences,10000000,12034660,Vernon L. Smith,male,North America
+1977,Literature,700000,3080986,Vicente Aleixandre,male,Europe
+1936,Physics,159850,4913422,Victor F. Hess,male,Europe
+1912,Chemistry,140476,6753654,Victor Grignard,male,Europe
+1955,Chemistry,190214,2681588,Vincent du Vigneaud,male,North America
+2003,Physics,10000000,11807305,Vitaly L. Ginzburg,male,Europe
+1975,Chemistry,630000,3404179,Vladimir Prelog,male,Europe
+1980,Chemistry,880000,2889667,Walter Gilbert,male,North America
+1956,Physics,200123,2699501,Walter H. Brattain,male,Asia
+1949,Physiology or Medicine,156290,2930438,Walter Hess,male,Europe
+1998,Chemistry,7600000,9713701,Walter Kohn,male,Europe
+1954,Physics,181647,2640218,Walther Bothe,male,Europe
+1920,Chemistry,134100,2394643,Walther Nernst,male,Europe
+2004,Peace,10000000,11762861,Wangari Maathai,female,Africa
+1973,Economic Sciences,510000,3331882,Wassily Leontief,male,Europe
+1946,Chemistry,121524,2503929,Wendell M. Stanley,male,North America
+1978,Physiology or Medicine,725000,2898454,Werner Arber,male,Europe
+1956,Physiology or Medicine,200123,2699501,Werner Forssmann,male,Europe
+1932,Physics,171753,5279293,Werner Heisenberg,male,Europe
+1901,Physics,150782,8567159,Wilhelm Conrad Röntgen,male,Europe
+1909,Chemistry,139800,7084459,Wilhelm Ostwald,male,Europe
+1911,Physics,140695,7327865,Wilhelm Wien,male,Europe
+1960,Chemistry,225987,2664941,Willard F. Libby,male,North America
+2009,Physics,10000000,10958504,Willard S. Boyle,male,North America
+1924,Physiology or Medicine,116719,3218355,Willem Einthoven,male,Asia
+1983,Physics,1500000,3715324,William A. Fowler,male,North America
+1956,Physics,200123,2699501,William B. Shockley,male,Europe
+1915,Physics,149223,6217625,William Bragg,male,Europe
+1923,Literature,114935,3169164,William Butler Yeats,male,Europe
+2015,Physiology or Medicine,8000000,8384572,William C. Campbell,male,Europe
+2018,Economic Sciences,9000000,9000000,William D. Nordhaus,male,North America
+1997,Physics,7500000,9572839,William D. Phillips,male,North America
+2014,Chemistry,8000000,8379888,William E. Moerner,male,North America
+1949,Chemistry,156290,2930438,William F. Giauque,male,North America
+1990,Economic Sciences,4000000,6329114,William F. Sharpe,male,North America
+1949,Literature,156290,2930438,William Faulkner,male,North America
+2019,Physiology or Medicine,9000000,9000000,William G. Kaelin Jr,male,North America
+1983,Literature,1500000,3715324,William Golding,male,Europe
+1972,Chemistry,480000,3345725,William H. Stein,male,North America
+2001,Chemistry,10000000,12295082,William Knowles,male,North America
+1976,Chemistry,681000,3342605,William Lipscomb,male,North America
+1934,Physiology or Medicine,162608,5167627,William P. Murphy,male,North America
+1996,Economic Sciences,7400000,9490424,William Vickrey,male,North America
+1955,Physics,190214,2681588,Willis E. Lamb,male,North America
+1971,Peace,450000,3321850,Willy Brandt,male,Europe
+1953,Literature,175293,2567769,Winston Churchill,male,Europe
+1996,Literature,7400000,9490424,Wislawa Szymborska,female,Europe
+1924,Literature,116719,3218355,Wladyslaw Reymont,male,Europe
+1986,Literature,2000000,4098361,Wole Soyinka,male,Africa
+2001,Physics,10000000,12295082,Wolfgang Ketterle,male,Europe
+1989,Physics,3000000,5242311,Wolfgang Paul,male,Europe
+1945,Physics,121333,2499993,Wolfgang Pauli,male,Europe
+1919,Peace,133127,2377268,Woodrow Wilson,male,North America
+1994,Peace,7000000,9249471,Yasser Arafat,male,Africa
+1968,Literature,350000,3052326,Yasunari Kawabata,male,Asia
+1994,Peace,7000000,9249471,Yitzhak Rabin,male,Asia
+2008,Physics,10000000,10926573,Yoichiro Nambu,male,Asia
+2016,Physiology or Medicine,8000000,8301051,Yoshinori Ohsumi,male,Asia
+1986,Chemistry,2000000,4098361,Yuan T. Lee,male,Asia
+2005,Chemistry,10000000,11711430,Yves Chauvin,male,Europe
+2000,Physics,9000000,11333109,Zhores Alferov,male,Europe
+1980,Chemistry,880000,2889667,Frederick Sanger,male,Europe
+1944,Peace,121841,2510460,International Committee of the Red Cross,,
+1972,Physics,480000,3345725,John Bardeen,male,North America
+1954,Chemistry,181647,2640218,Linus Pauling,male,North America
+1911,Chemistry,140695,7327865,Marie Curie,female,Europe
+1981,Peace,1000000,2929688,Office of the United Nations High Commissioner for Refugees,,
+1963,Peace,265000,2839286,International Committee of the Red Cross,,

@@ -1,0 +1,13 @@
+polluant,agg,value
+Con_PM_2.5,max,0
+Con_PM_2.5,min,0
+Con_PM10,max,0
+Con_PM10,min,0
+Con_O₃,max,0
+Con_O₃,min,0
+Con_CO,max,0
+Con_CO,min,0
+Con_SO₂,max,0
+Con_SO₂,min,0
+Con_NO₂,max,0
+Con_NO₂,min,0
